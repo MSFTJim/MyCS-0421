@@ -9,5 +9,6 @@ Latest updates include:
 		ms-azuretools.vscode-azureresourcegroups			
 		ms-mssql.mssql		
 		alexey-strakh.stackoverflow-search
+		tonybaloney.vscode-pets
 
 
