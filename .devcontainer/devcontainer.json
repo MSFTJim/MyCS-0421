@@ -9,7 +9,13 @@
 		"ms-vsliveshare.vsliveshare",
 		"ms-dotnettools.csharp",
 		"ms-vscode.azure-account",
-		"mhutchie.git-graph"
+		"mhutchie.git-graph",
+		"humao.rest-client",
+		"ms-azuretools.vscode-azureappservice",
+		"ms-azuretools.vscode-azureresourcegroups",
+		"ms-mssql.mssql",
+		"alexey-strakh.stackoverflow-search",
+		"tonybaloney.vscode-pets"
 	],
 	//current default CS has everything needed so no extra items to install at this time 1-6-21 
 	//    "dockerFile": "Dockerfile",
